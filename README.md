@@ -5,6 +5,7 @@
 
 ## 概述
 
+### 注册地址：https://okteto.com/
 本专案用于在 Okteto上部署 V2Ray WebSocket，
 
 部署完成后，每次启动应用时，运行的 V2Ray 将始终为最新版本
